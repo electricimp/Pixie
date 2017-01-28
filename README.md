@@ -1,6 +1,6 @@
 # Pixie
 
-This class allows the imp to drive WS2812 and WS2812B LEDs. The WS2812 is an all-in-one RGB LED with integrated shift register and constant-current driver. The parts are daisy-chained, and a proprietary one-wire protocol is used to send data to the chain of LEDs. Each pixel is individually addressable and this allows the part to be used for a wide range of effects animations.
+This class allows the imp to drive [Pixie](https://www.adafruit.com/products/2741) 3W chainable smart LED pixels. The Pixie is an all-in-one RGB LED with integrated shift register and constant-current driver. The parts are daisy-chained, and a proprietary one-wire protocol is used to send data to the chain of LEDs. Each pixel is individually addressable and this allows the part to be used for a wide range of effects animations.
 
 **Library still under test, please copy and paste the `Pixie.class.nut` file at the top of your device code **
 
